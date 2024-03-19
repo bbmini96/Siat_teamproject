@@ -13,8 +13,9 @@ Name|GitHub Address|
 |:frog:장희권|https://github.com/bbmini96|
 |:teddy_bear:조성민|https://github.com/EnjoyTime18|
 
-## 💻 역할
+<br>
 
+## 💻 역할
 | 이름     | 역할                  |
 |---------|----------------------|
 | :eagle: 배창민 | issue 템플릿 작성  |
