@@ -4,7 +4,12 @@
 <br><br>
 ## :hourglass: 개발 기간
 24/03/19
+
 <br>
+
+## :hammer_and_wrench: 기술 스택 
+![VisualStudioCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 
 <br>
 
