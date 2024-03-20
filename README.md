@@ -24,7 +24,7 @@ Name|GitHub Address|
 
 ## 충돌 시나리오
 
-[시나리오](./secnario/)
+[시나리오](./scenario/)
 
 <br>
 
