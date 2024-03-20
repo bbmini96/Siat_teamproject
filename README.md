@@ -16,8 +16,8 @@
 ## :runner: 참여자
 Name|GitHub Address|
 |------|---|
-|:eagle:배창민|https://github.com/11000db|
-|:frog:장희권|https://github.com/bbmini96|
+|:eagle:배창민|https://github.com/bbmini96|
+|:frog:장희권|https://github.com/jang010505|
 |:teddy_bear:조성민|https://github.com/EnjoyTime18|
 
 <br>
